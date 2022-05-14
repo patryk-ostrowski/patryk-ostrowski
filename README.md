@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patryk.
 - 👀 I’m interested in web development, new technologies and biulding constructions.
-- 🌱 I’m currently learning more dvanced HTML/CSS/JS, React.js and GIT.
+- 🌱 I’m currently learning more advanced HTML/CSS/JS, React.js and GIT.
 - 💞️ I’m looking to collaborate in building web applications.
 
 <!---
